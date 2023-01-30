@@ -14,7 +14,20 @@ Hole   --> Peg
 Square <- PegAdapter
 ```
 
+*// 2023-01-30 additions*
 
+### What the chart says?
+
+YOU are responsible for a client service, It is time for you to call some 3rd-party service or sdk etc. But the different interface (the type of data,I mean) stops you from writing code comfortably. 
+
+Cons:
+
+Class++, Interface++
+
+Sometimes it's **simpler** to modify the service to **match** client.
+
+*// 2023-01-30 additions*
+ 
 ```
 Client --> <<interface>>
            Client Interface
