@@ -2,3 +2,6 @@ https://github.com/rust-lang/rust-analyzer/issues/13520
 
 rust本机配置问题 vfs not found
 原因：没装rustup
+
+
+rust unable to import -> Cargo.toml 没开 features;
